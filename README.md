@@ -7,7 +7,7 @@ STEPS TO SOLVE THE CUBE
 
 3> White-Orange-Green-Red-Blue-Yellow
 
-4> HOW tt scan?
+4> HOW to scan?
 
 5> While scanning white face, make sure to your white center piece is facing the camera, the orange center piece points to the roof, and green center piece lies to **your right** and **computers left**
 
